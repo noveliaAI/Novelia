@@ -11,7 +11,8 @@
 <ul><li>NOVEL token is a utility token that can be used in Novelia.ai platform. </li></ul>
 <ul><li>NOVEL token can be used as subscribing author's novel collection, and donate to author.</li></ul>
 <p>2. contracts/NOVELIACollectionSBT.sol</p>
-<ul><li>Standard ERC-20 token, upgradable and ownable.</li></ul>
-<ul><li>NOVEL token is a utility token that can be used in Novelia.ai platform. </li></ul>
-<ul><li>NOVEL token can be used as subscribing author's novel collection, and donate to author.</li></ul>
+<ul><li>Standard ownable ERC-721 token, so called Soul Bounded Token.</li></ul>
+<ul><li>Novelia collection SBT is non-transferable and each wallet can own only 1 token.</li></ul>
+<ul><li>Author will be deploy this smart contract and own this contract.</li></ul>
+
 
