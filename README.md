@@ -32,7 +32,7 @@
 <ul><li>User will mint this SBT to use Novelia.ai platform.</li></ul>
 <ul><li>To prevent bot or any kind of abusement, user need to pay certain amount of BNB to mint this SBT.</li></ul>
 <ul><li>After mint this SBT, user will get unique identifer, so called handle that can be used in platform as an identifier.</li></ul>
-<h2>Please refer to <a href="https://docs.novelia.ai">https://docs.novelia.ai</a> for more information.</h2>
+<h2>Please refer to <a href="https://novelia-ai.gitbook.io/novelia.ai/">https://novelia-ai.gitbook.io/novelia.ai/</a> for more information.</h2>
 
 
 
